@@ -10,6 +10,9 @@ Questo repository rappresenta una raccolta generale per:
 - Configurazioni generali.
 - Strumenti e risorse per la gestione della piattaforma.
 
+## Tecnologie
+![TechStack](https://skillicons.dev/icons?i=vscode,pycharm,idea,androidstudio,git,latex,java,c,cpp,cs,php,css,mysql,bootstrap,jquery,html,js,docker,bash,phpstorm,wordpress)
+
 ## Informazioni
 
 I siti ospitati su **masone.cloud** sono progettati per offrire soluzioni web moderne, scalabili e performanti, con particolare attenzione alla qualità e alla sicurezza.
